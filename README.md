@@ -2,11 +2,11 @@
 
 *NOTE- I used this online source: https://stackoverflow.com/questions/58885929/how-to-answer-this-question-list-employees-who-were-hired-in-1986 for how to use extract for a date in SQL and i used this source: https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-like/ for how to use the like statement correctly*
 
-Data Modeling:
+# Data Modeling:
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD. 
 
-Data Engineering:
+# Data Engineering:
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -18,7 +18,7 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 
 Import each CSV file into its corresponding SQL table.
 
-Data Analysis:
+# Data Analysis:
 
 List the employee number, last name, first name, sex, and salary of each employee.
 
