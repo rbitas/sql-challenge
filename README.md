@@ -1,6 +1,6 @@
 # sql-challenge
 
-*NOTE- I used this online source: https://stackoverflow.com/questions/58885929/how-to-answer-this-question-list-employees-who-were-hired-in-1986 for how to use extract for a date in SQL and i used this source: https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-like/ for how to use the like statement correctly*
+*NOTE- I used this online source: https://stackoverflow.com/questions/58885929/how-to-answer-this-question-list-employees-who-were-hired-in-1986 for how to use extract for a date in SQL and i used this source: https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-like/ for how to use the like statement correctly. These were both used in Employee_queries.sql*
 
 # Data Modeling:
 
